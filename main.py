@@ -6,8 +6,6 @@ def primo(numero):
         if numero % i == 0:
             return False
 
-    return True
-
 
 
 
